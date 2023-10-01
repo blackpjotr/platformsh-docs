@@ -41,7 +41,7 @@
     "js-yaml": "^3.14.1",
     "normalize-url": "^7.0.2",
     "p-limit": "^4.0.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.31",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   }
