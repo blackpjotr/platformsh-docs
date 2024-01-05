@@ -28,7 +28,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "axios": "^0.25.0",
+    "axios": "^1.6.4",
     "babel-loader": "^8.2.3",
     "buffer": "^6.0.3",
     "dompurify": "^2.3.4",
