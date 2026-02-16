@@ -28,11 +28,11 @@
   "dependencies": {
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.8",
-    "axios": "^0.25.0",
+    "axios": "^1.13.5",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "cssnano": "^5.0.15",
-    "express": "^4.17.2",
+    "express": "^4.22.0",
     "glob-parent": "^6.0.2",
     "gulp": "^4.0.2",
     "gulp-postcss": "^9.0.1",
